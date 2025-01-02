@@ -1,16 +1,17 @@
 <img src="logoSmartChill.png">
 <h1 align="center" style="font-weight: bold;">SmartChill </h1>
 
-<p align="center">
+<p>
  <a href="#tech">Tecnologias</a> • 
  <a href="#routes">Endpoints da API</a> •
 </p>
 
-<p align="center">
+<p>
     <b>  Faz parte do trabalho da disciplina de back-end da faculdade UNIT no período 24.2. O SmartChill é um sistema inteligente para gestão e monitoramento de dispositivos de refrigeração, com foco em otimização energética e preservação de alimentos.</b>
 </p>
-<p align="center">
- # Principais funcionalidades:
+<br>
+<p>
+<h1>Principais funcionalidades:</h1>
 
 Monitoramento de Estoque: Permite ao usuário verificar os itens disponíveis na geladeira em tempo real, auxiliando no controle de alimentos e evitando desperdícios.
 Notificações de Validade: Envia alertas sobre a data de vencimento dos produtos armazenados, garantindo o consumo seguro dos alimentos.
