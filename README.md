@@ -2,11 +2,6 @@
 <h1 align="center" style="font-weight: bold;">SmartChill </h1>
 
 <p>
- <a href="#tech">Tecnologias</a> • 
- <a href="#routes">Endpoints da API</a> •
-</p>
-
-<p>
     <b>  Faz parte do trabalho da disciplina de back-end da faculdade UNIT no período 24.2. O SmartChill é um sistema inteligente para gestão e monitoramento de dispositivos de refrigeração, com foco em otimização energética e preservação de alimentos.</b>
 </p>
 <br>
