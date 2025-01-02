@@ -15,13 +15,8 @@ Lista de Compras Automatizada: Sugere itens para reposição com base no consumo
 
 <h2 id="tech">💻 Tecnologias</h2>
 
-- **Java**: Desenvolvimento do backend para gerenciar lógica de negócios e funcionalidades do lado do servidor.
-- **MongoDB**: Banco de dados para armazenar configurações, logs de temperatura e preferências do usuário.
-- **Node.js**: Camada de middleware para comunicação em tempo real e integrações com APIs.
-- **Spring Boot**: Framework utilizado para criar APIs RESTful robustas.
-- **React.js**: Frontend para desenvolver uma interface interativa e amigável.
-- **Docker**: Containerização para facilitar o deploy e escalabilidade.
-- **Git/GitHub**: Controle de versão e colaboração no desenvolvimento.
+- **Python**: Desenvolvimento do backend para gerenciar lógica de negócios e funcionalidades do lado do servidor.
+- **Figma**: para fazer o protótipo.
 
 <h2 id="started">🚀 Começando</h2>
 
