@@ -1,4 +1,4 @@
-
+<img src="logoSmartChill.png">
 # geladeira-inteligente
  um aplicativo móvel para uma geladeira inteligente, como parte do trabalho da disciplina de back-end da faculdade UNIT no período 24.2.
 
